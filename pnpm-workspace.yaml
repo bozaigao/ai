@@ -2,5 +2,3 @@ packages:
   - 'apps/*'
   - 'packages/*'
   - 'tools/*'
-  - 'examples/*'
-  - 'packages/ai/tests/e2e/next-server'
